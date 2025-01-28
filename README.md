@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @finn-tof
-- 🌱 I’m currently learning C++ programming language
+- 🌱 I’m currently learning Java programming language
